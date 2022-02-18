@@ -18,6 +18,8 @@
 * https://probml.github.io/pml-book/
 
 ### Tutorials
+* https://google.github.io/styleguide/pyguide.html
 * The Annotated Transformer: https://nlp.seas.harvard.edu/2018/04/03/attention.html
 * RL: https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver
 * RL: http://ai.berkeley.edu/reinforcement.html
+* https://google.github.io/styleguide/cppguide.html
