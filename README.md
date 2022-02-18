@@ -10,7 +10,7 @@
 * Software Engineering at Google
 ### CV
 * Computer Vision: A Modern Approach
-#### SLAM & Multi-view
+#### [SLAM & Multi-view](./SLAM.md)
 * Multiple view geometry in computer vision
 * 视觉SLAM十四讲：从理论到实践
 
