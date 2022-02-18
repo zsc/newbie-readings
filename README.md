@@ -1,8 +1,8 @@
 # newbie-readings
 
 ## Tools
-Arxiv sanity preserver
-https://arxiv-sanity-lite.com/
+* Arxiv sanity preserver https://arxiv-sanity-lite.com/
+* https://paperswithcode.com/
 
 ## Books
 ### SE
