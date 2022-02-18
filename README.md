@@ -22,4 +22,5 @@
 * The Annotated Transformer: https://nlp.seas.harvard.edu/2018/04/03/attention.html
 * RL: https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver
 * RL: http://ai.berkeley.edu/reinforcement.html
+* CG: https://www.bilibili.com/video/BV1X7411F744 (Games 101)
 * https://google.github.io/styleguide/cppguide.html
