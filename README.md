@@ -18,9 +18,12 @@
 * https://probml.github.io/pml-book/
 
 ### Tutorials
-* https://google.github.io/styleguide/pyguide.html
-* The Annotated Transformer: https://nlp.seas.harvard.edu/2018/04/03/attention.html
-* 【先读】RL: http://ai.berkeley.edu/reinforcement.html
-* RL: https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver
-* CG: https://www.bilibili.com/video/BV1X7411F744 (Games 101)
-* https://google.github.io/styleguide/cppguide.html
+* Python https://google.github.io/styleguide/pyguide.html
+* Transformer: The Annotated Transformer: https://nlp.seas.harvard.edu/2018/04/03/attention.html
+* RL
+  * 【先读】RL: http://ai.berkeley.edu/reinforcement.html
+  * RL: https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver
+* NeRF
+  * https://www.bilibili.com/video/BV1Jt4y1x7PJ 
+  * CG: https://www.bilibili.com/video/BV1X7411F744 (Games 101)
+* C++ https://google.github.io/styleguide/cppguide.html
